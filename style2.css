@@ -1,0 +1,10 @@
+.gbth{
+    text-decoration: none;
+    color:#005CDE;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 16px;
+}
+.gbth:hover{
+    color: white;
+}
